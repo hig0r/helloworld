@@ -50,7 +50,7 @@ namespace HelloWorld
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
-            });
+            })
         }
     }
 }
